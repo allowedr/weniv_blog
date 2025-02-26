@@ -2,3 +2,21 @@
 
 * hello world 1
 * hello world 2
+
+![404이미지](img/404.png)
+
+```python
+print('hello')
+```
+
+```py
+print('hello')
+```
+
+```javascript
+console.log('hello')
+```
+
+```js
+console.log('hello')
+```
